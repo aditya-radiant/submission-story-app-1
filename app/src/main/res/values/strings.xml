@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="fill_the_email">Email Cannot Empty</string>
+    <string name="pw_lg_minimum">Password minimum 6 characters</string>
+    <string name="locale">Local</string>
+    <string name="login_success">Login Success</string>
+    <string name="information">information</string>
+    <string name="continue_">continue</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="story">Story</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="fill_name">Fill your name</string>
+    <string name="fill_email">Fill your Email</string>
+    <string name="fill_the_password">Fill the password</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Log Out</string>
+    <string name="already_have_account">Already Have Account?</string>
+    <string name="picture">Picture</string>
+    <string name="user_name">User Name</string>
+    <string name="Description">Description</string>
+    <string name="story_picture">picture here</string>
+    <string name="write_caption">Write your caption here!</string>
+    <string name="upload_story">UPLOAD STORY</string>
+    <string name="Open_Camera">CAMERA</string>
+    <string name="Gallery">GALLERY</string>
+    <string name="input_file_first">Input File First!!!</string>
+    <string name="success">Success</string>
+    <string name="failed">failed</string>
+    <string name="post_story">Post Story</string>
+    <string name="email_not_valid">Email not valid</string>
+    <string name="password_min">Password Minimum 6 Characters</string>
+    <string name="fill_the_name">Name can\'t be empty</string>
+    <string name="fill_your_password">Fill your password</string>
+    <string name="hello">Hello, come and let\'s join our journey</string>
+    <string name="detail_story">Detail Story</string>
+
+</resources>

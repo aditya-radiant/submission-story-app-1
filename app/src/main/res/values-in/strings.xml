@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Registrasi</string>
+    <string name="fill_the_email">Email tidak boleh kosong</string>
+    <string name="pw_lg_minimum">Sandi minimal 6 karakter</string>
+    <string name="locale">Local</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="information">informasi</string>
+    <string name="continue_">lanjut</string>
+    <string name="login_failed">login gagal</string>
+    <string name="story">Story</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="fill_name">Isi nama anda</string>
+    <string name="fill_email">Isi email anda</string>
+    <string name="fill_the_password">Isi sandi anda</string>
+    <string name="settings">Pengaturan</string>
+    <string name="logout">Log Out</string>
+    <string name="already_have_account">Already Have Account?</string>
+    <string name="picture">Gambar</string>
+    <string name="user_name">Nama User</string>
+    <string name="Description">Deskripsi</string>
+    <string name="story_picture">Gambar disini</string>
+    <string name="write_caption">Tulis caption!</string>
+    <string name="upload_story">UPLOAD STORY</string>
+    <string name="Open_Camera">Kamera</string>
+    <string name="Gallery">Galeri</string>
+    <string name="input_file_first">Masukkan file terlebih dahulu!</string>
+    <string name="success">Sukses</string>
+    <string name="failed">Gagal</string>
+    <string name="post_story">Post Story</string>
+    <string name="email_not_valid">Email tidak valid</string>
+    <string name="password_min">Sandi minimal 6 karakter</string>
+    <string name="fill_the_name">Name can\'t be empty</string>
+    <string name="fill_your_password">Fill your password</string>
+    <string name="hello">Hallo, ayo bergabung dengan petualangan kita</string>
+    <string name="detail_story">Detail Story</string>
+</resources>
